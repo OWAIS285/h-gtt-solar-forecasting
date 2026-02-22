@@ -18,7 +18,7 @@
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/h-gtt-solar-forecasting.git
+git clone https://github.com/OWAIS285/h-gtt-solar-forecasting.git
 cd h-gtt-solar-forecasting
 
 # 2. Environment

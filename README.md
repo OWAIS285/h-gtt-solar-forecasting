@@ -1,6 +1,6 @@
 # H-GTT: Hybrid Graph Attention Transformer for Solar Energy Forecasting
 
-[![Paper Results](https://img.shields.io/badge/MAE-105.90%20GWh-brightgreen.svg)](https://github.com/OWAIS285/h-gtt-solar-forecasting) [![R²](https://img.shields.io/badge/R²-0.8888-blue.svg)](https://github.com/yourusername/h-gtt-solar-forecasting)
+[![Paper Results](https://img.shields.io/badge/MAE-105.90%20GWh-brightgreen.svg)](https://github.com/OWAIS285/h-gtt-solar-forecasting) [![R²](https://img.shields.io/badge/R²-0.8888-blue.svg)](https://github.com/OWAIS285/h-gtt-solar-forecasting)
 
 **Official code for "A Deep Learning-Based Hybrid Approach for Solar Energy Prediction Using GAT and Transformers"** - MAE **105.90 GWh**, R² **0.90** on Pavagada Solar Plant (11 years data).
 
